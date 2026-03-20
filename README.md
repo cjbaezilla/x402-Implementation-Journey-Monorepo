@@ -349,3 +349,7 @@ Do NOT create public issues for security concerns.
 | Technical Article | x402 Whitepaper | https://www.x402.org/x402-whitepaper.pdf | Theoretical foundations and motivation | 2026-03-19 |
 | Extension Spec | Payment-Identifier (Idempotency) | https://docs.x402.org/extensions/payment-identifier.md | Critical for reliable agent commerce | 2026-03-19 |
 | Ecosystem Directory | x402 Ecosystem | https://www.x402.org/ecosystem | Real-world adoption examples | 2026-03-19 |
+| TypeScript SDK | @x402/express Package | https://github.com/coinbase/x402/tree/main/typescript/packages/http/express | Express.js middleware integration | 2026-03-19 |
+| Example Server | Express Server Example | https://github.com/coinbase/x402/tree/main/examples/typescript/servers/express | Working Express.js implementation | 2026-03-19 |
+| TypeScript Examples | Full TypeScript Examples | https://github.com/coinbase/x402/tree/main/examples/typescript | Complete examples for clients, servers, and fullstack | 2026-03-19 |
+| Documentation Index | Complete x402 Docs | https://docs.x402.org/llms.txt | All available documentation pages | 2026-03-19 |
